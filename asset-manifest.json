@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amar-va-ehtemal-project/static/css/main.e6c13ad2.css",
+    "main.js": "/Amar-va-ehtemal-project/static/js/main.6072c725.js",
+    "index.html": "/Amar-va-ehtemal-project/index.html",
+    "main.e6c13ad2.css.map": "/Amar-va-ehtemal-project/static/css/main.e6c13ad2.css.map",
+    "main.6072c725.js.map": "/Amar-va-ehtemal-project/static/js/main.6072c725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6072c725.js"
+  ]
+}
